@@ -1,0 +1,364 @@
+*{
+margin: 0%;
+border: 0%;
+}
+.navbar{
+	margin-left: 15%;
+}
+.navbar select{
+    border:0%;
+    border:none ;
+}
+.user{
+	text-decoration: none;
+	color: grey;
+	margin-left: 76%;
+}
+.user:hover{
+	color:black;
+}
+.user:hover >.x{
+	color: red;
+}
+.x{
+	font-size: 2rem;
+}
+
+nav{
+	display: flex;
+	margin-left: 15%;
+	padding: 2%;
+}
+nav p{
+	color: black;
+	margin-top: 0.5%;
+	font-size: 1.9rem;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	justify-content: space-between;
+	margin-top: 1.2%;
+	margin-left: 6%;
+}
+.search {
+	margin-left:15%;
+	font-size: 2rem;
+}
+.haeadphone{
+	color:white;
+	padding: 5% 0% 4% 14%;
+	background-image:url("images/rode1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+.para{
+	text-align: center;
+	width: 35%;
+	font-size: 1.5rem;
+}
+
+.h1{
+	color:#ad9970;
+}
+.text{
+	color:grey;
+	font-size: 1rem;
+}
+.headset{
+	text-decoration:none;
+	color:#ad9970;
+	font-size: 0.9rem;
+}
+.icon{
+	color:#ad9970;
+	font-size: 0.9rem;
+}
+.button{
+	border-radius:20px;
+	font-size: 1rem;
+	border-radius: none;
+	background-color:#ad9970;
+	color: white;
+	padding: 2%;
+	text-decoration: none;
+}
+.button:hover{
+	background-color: white;
+	color: black;
+}	
+.videoMicro{
+	padding: 5% 0% 15% 14%;
+	background-image: url("images/rode2.png");
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+.videoMicro h1,h3{
+	color: black;
+}
+.micro{
+	margin-top: 10%;
+	margin-left:55%;
+	font-size: 1rem;
+	color: whitesmoke;
+}
+.microbutton{
+	border-radius:20px;
+	border: none;
+	background-color:#ad9970;
+	color: white;
+	padding: 2%;
+	width: 20%;
+	text-decoration: none;
+}
+.microbutton:hover{
+	background-color: white;
+	color: black;
+}
+.usb{
+	color:white;
+	padding: 5% 0% 20% 14%;
+	background-image:url("images/rode3.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.microphone{
+	margin-top:4%;
+	margin-left: 5%;
+	text-align: center;
+	padding: 2%;
+	width: 30%;
+	font-size: 1rem;
+	color:whitesmoke;
+}
+.streamers{
+	padding: 5% 10% 0% 14%;
+	background-image: url("images/rode4.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.games{
+	text-align: center;
+	color: white;
+	width:70%;
+	padding: 15%;
+}
+.games h1{
+	font-size:3rem;
+	margin-left:4%;
+}
+.p{
+	font-size: 3.9rem;
+	color: red;
+}
+.stream{
+	color: red;
+	margin-top: 2%;
+	padding: 1.2%;
+	background-color: black;
+	border-radius: 20px;
+}
+.caster{
+padding: 5% 0% 15% 14%;
+	background-image: url("images/rode5.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+.performance{
+	margin-top: 10%;
+	margin-left:55%;
+	font-size: 1rem;
+	color: whitesmoke;
+}
+.caster h1{
+	font-size:2rem;
+}
+.performance h3{
+	color: white;
+	padding: 2%;
+	margin-left:15% ;
+}
+.proll{
+	border-radius:20px;
+	border: none;
+	background-color:#ad9970;
+	color: white;
+	padding: 1.4%;
+	width: 20%;
+	text-decoration: none;
+}
+.proll:hover{
+	background-color: white;
+	color: black;
+	padding: 2%;
+}
+.tm{
+	font-size: 0.5rem;
+}
+.text{
+	font-size: 2rem;
+	color:#ad9970;
+	margin-top:5% ;
+	text-align: center;
+}
+#blog{
+	background-color: whitesmoke;
+	margin-top: 4%;
+	padding: 2%;
+}
+.over-ear{
+	display: flex;
+	padding: 4%;
+	margin-left: 9%;
+	
+}
+.nnth{
+	background-color: white;
+	padding: 2% 0% 3% 0%;
+	width: 40%;
+	margin-top: 1%;
+	margin-right: 5%;
+}
+.NTH-100{
+	display:flex;
+	padding: 0.5%;
+	margin-left: 9%;
+	margin-b0ttom:0% ;
+	
+}
+
+.introduces{
+	text-align: center;
+	font-size: 1.5rem;
+	margin: 15% 1% 0% 1%;
+	width: 55%;
+}
+.passage{
+	font-size: 1.2rem;
+	width: 75%;
+	margin-left: 2%;
+	text-align: center;
+}
+.more{
+	border-radius:20px;
+	border: none;
+	background-color:#ad9970;
+	color: white;
+	padding: 1.3%;
+	width: 20%;
+	margin-left: 30%;
+	text-decoration: none;
+}
+.more:hover{
+	background-color: white;
+	color: black;
+}
+.explre{
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 4%;
+	color:grey;
+}
+.PHONE{
+	background-image: url("images/rode10.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin:2% 6% 0% 5%;
+	padding: 10%;
+}
+.MIXRERS{
+ 	background-image: url("images/rode11.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin:2% 6% 0% 5%;
+	padding: 10%;
+}
+.SOFTWARE{
+    background-image: url("images/rode12.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin:2% 6% 0% 5%;
+	padding: 10%;
+}
+.ACCESSORIES{
+	background-image: url("images/rode13.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin:2% 6% 0% 5%;
+	padding: 10%;
+}
+.BACK{
+	text-align: center;
+	text-decoration: none;
+	font-size: 5rem;
+	color: white;
+	margin-left: 3%;
+}
+.BACK-M{
+	text-align: center;
+	text-decoration: none;
+	font-size: 5rem;
+	color: white;
+	margin-left: 15%;
+}
+#Account{
+ 	display: flex;
+ }
+ .Products{
+ 	margin-left: 10%;
+ }
+ .Warranty{
+ 	margin-left: 5%;
+ 	font-size: 1.5rem;
+ }
+ .line a{
+ 	font-size: 1.2rem;
+ 	text-decoration: none;
+ 	color: black;
+ }
+ .line a:hover{
+ 	color: grey;
+ }
+ .sing{
+ 	border-radius:23px;
+ 	margin-top: 3%;
+	font-size: 1.5rem;
+	background-color:#ad9970;
+	color: white;
+	padding: 1.3%;
+	text-decoration: none;
+ }
+ .sing:hover{
+ 	background-color: white;
+	color: black;
+ }
+ .Warranty{
+ 	width: 14%;
+ 	font-size: 2rem;
+ }
+ .dot{
+ 	width: 84%;
+ 	margin-left: 10%;
+ }
+ .Reserved{
+ 	display: flex;
+ 	margin-top: 3%;
+ 	margin-bottom: 5%;
+ 	font-size: 1rem;
+ 	margin-left: 13%;
+ }
+ .Reserved a{
+ 	margin-left: 6%;
+ 	text-decoration: none;
+ 	width: 20%;
+ 	color: grey;
+ }
+ .links{
+ 	margin-left:20%;
+ 	width: 50%;
+ }
+ .links a {
+ 	font-size: 2rem;
+ 	text-decoration: none;
+ 	color:black;
+ }
